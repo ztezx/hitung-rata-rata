@@ -1,3 +1,5 @@
+#Nama: Luthfi Musyaffa
+
 #Meminta pengguna untuk memasukkan nilai numerik, pisahkan dengan koma
 input_str = input("Masukkan nilai-nilai numerik, pisahkan dengan koma: ")
 
